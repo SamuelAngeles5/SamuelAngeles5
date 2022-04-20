@@ -36,10 +36,7 @@ _____________
 	</a>
 	<a href="https://discord.js.org/#/" target="_blank">
 		<img src="https://avatars.githubusercontent.com/u/26492485?s=400&v=4" alt="Discord.js" title="Discord.js" width="40" height="40" />
-	</a>
-	<a href="https://reactjs.org/" target="_blank">
-		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
-			alt="React.js" title="React.js" width="40" height="40" />
+	
 	</a>
 	<a href="https://v4.webpack.js.org/" target="_blank">
 		<img src="https://miro.medium.com/max/1200/1*xQCjgB2DVqhtqGoGw9E6TQ.png"
