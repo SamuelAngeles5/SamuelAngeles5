@@ -37,22 +37,7 @@ _____________
 	<a href="https://discord.js.org/#/" target="_blank">
 		<img src="https://avatars.githubusercontent.com/u/26492485?s=400&v=4" alt="Discord.js" title="Discord.js" width="40" height="40" />
 	
-	</a>
-	<a href="https://v4.webpack.js.org/" target="_blank">
-		<img src="https://miro.medium.com/max/1200/1*xQCjgB2DVqhtqGoGw9E6TQ.png"
-			alt="Webpack" title="Webpack" width="40" height="40" />
-	</a>
-	<a href="https://nodejs.org" target="_blank">
-		<img src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg" alt="Node.js" title="Node.js" width="40" height="40" />
-	</a>
- 	<a href="https://www.mysql.com/" target="_blank">
-		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
-			alt="MySQL" title="MySQL" width="40" height="40" />
-	</a>
-	<a href="https://firebase.google.com/" target="_blank">
-		<img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase & Firestore" title="Firebase & Firestore" width="40"
-			height="40" />
-	</a>
+	
 
 </p>
 
